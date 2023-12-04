@@ -1,0 +1,18 @@
+{
+    "idfInstalled": {
+        "C:\\new_byte0\\Espressif\\frameworks\\esp-idf-v5.1.1-v5.1": {
+            "version": "5.1",
+            "path": "C:\\new_byte0\\Espressif\\frameworks\\esp-idf-v5.1.1",
+            "features": [
+                "core"
+            ],
+            "targets": [
+                "esp32c2",
+                "esp32s2",
+                "esp32",
+                "esp32c3",
+                "esp32s3"
+            ]
+        }
+    }
+}
